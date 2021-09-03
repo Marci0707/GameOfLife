@@ -12,7 +12,7 @@ In this implementation you can set the following things:
 -Custom colors for live and dead cells
 -wheter to show the grid of the field
 
-You also can request a graph which after stopping a simulation shows how the distribution of the live and dead cells changed over time.
+You also can request a colorcoded graph which, after stopping a simulation, shows how the distribution of the live and dead cells changed over time.
 ![graph](https://user-images.githubusercontent.com/78796219/132030067-87a7751b-92e4-4cee-8289-9eeb002a857f.png)
 
 You may save the current position to a binary file or load on of your custom positions.I uploaded a smiley face starting position in the source files. Just describe the cells row by row with 1s and 0s for a live and dead cell but do make sure to create rectangular field
